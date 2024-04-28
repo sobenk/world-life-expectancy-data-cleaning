@@ -1,4 +1,4 @@
--- Utilisation de la base de données world_life_expectancy
+-- Utilisation de la base de donnée world_life_expectancy
 USE world_life_expectancy;
 
 -- Affichage de toutes les données de la table world_life_expectancy
